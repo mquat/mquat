@@ -1,6 +1,6 @@
 ### MEERYU YU(EMMA) &nbsp;&nbsp; | &nbsp;&nbsp;    BACK-END DEVELOPER &nbsp; ✨
-+ Living in Seoul, South Korea
-+ "I intend to live life, not just exist" 
+<i>"I intend to live life, not just exist" <i/>
+
 ---
 
 <!--
