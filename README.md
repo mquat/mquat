@@ -50,5 +50,5 @@ Here are some ideas to get you started:
 
 ### CONTACTS
 [![BLOG](https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@mquat)](https://velog.io/@mquat)
-[![GMAIL](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=malito:meeryuyu@gmail.com)](malito:meeryuyu@gmail.com)
-[![NAVER](https://img.shields.io/badge/Naver-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white&link=malito:meeryuyu@naver.com)](malito:meeryuyu@naver.com)
+[![GMAIL](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:meeryuyu@gmail.com)](mailto:meeryuyu@gmail.com)
+[![NAVER](https://img.shields.io/badge/Naver-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white&link=mailto:meeryuyu@naver.com)](mailto:meeryuyu@naver.com)
