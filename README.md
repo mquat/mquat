@@ -1,5 +1,5 @@
 ### MEERYU YU(EMMA) &nbsp;&nbsp; | &nbsp;&nbsp;    BACK-END DEVELOPER &nbsp; ✨
-<i>"I intend to live life, not just exist" <i/>
+<i>"I intend to live life, not just exist" </i>
 
 ---
 
