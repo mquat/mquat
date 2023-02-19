@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 
@@ -31,8 +32,8 @@ Here are some ideas to get you started:
 
 ### SKILLS & TOOLS
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastApi-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white)
