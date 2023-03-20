@@ -3,7 +3,7 @@
 </i> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmquat&count_bg=%23F9B948&title_bg=%233A6CE5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### MEERYU YU(EMMA) &nbsp;&nbsp; | &nbsp;&nbsp;    BACK-END DEVELOPER &nbsp; 
 
-<i> Love Python! Love this life!</i>
+<i> Love Python ! Love this life !</i>
 
 🌱 좋은 개발을 하기 위해, 세상을 배우기 위해 꾸준히 공부하는 중입니다 <br/>
 🎈 Hobbies: 디자인, 노래, 전시/공연보기 <br/>
