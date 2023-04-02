@@ -6,7 +6,7 @@
 <i> Love Python ! Love this life !</i>
 
 🌱 좋은 개발을 하기 위해, 세상을 배우기 위해 꾸준히 공부하는 중입니다 <br/>
-🎈 Hobbies: 디자인, 노래, 전시/공연보기입니다, 그런데 약간의 professionalism을 곁들인 <br/>
+🎈 Hobbies: 디자인, 성악, 전시/뮤지컬보기입니다.. 그런데 약간의 professionalism을 곁들인 <br/>
 😃 Languages: 한국어, 영어 <br/>
 
 🔗 [My LinkedIn](https://www.linkedin.com/in/%EB%AF%B8%EB%A5%98-%EB%A5%98-80544015b/)
