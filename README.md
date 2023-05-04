@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 
 ### STATS 
-![Meeryu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mquat&theme=cobalt1&show_icons=true)
+![Meeryu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mquat&theme=cobalt1&show_icons=true) 
 
 ### BOJ 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=meeryuyu)](https://solved.ac/meeryuyu/)
@@ -70,3 +70,4 @@ Here are some ideas to get you started:
 ### CONTACTS
 [![GMAIL](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:meeryuyu@gmail.com)](mailto:meeryuyu@gmail.com)
 [![NAVER](https://img.shields.io/badge/Naver-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white&link=mailto:meeryuyu@naver.com)](mailto:meeryuyu@naver.com)
+
