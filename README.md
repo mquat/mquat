@@ -10,6 +10,7 @@
 😃 Languages: 한국어, 영어 <br/>
 
 🔗 [My LinkedIn](https://www.linkedin.com/in/%EB%AF%B8%EB%A5%98-%EB%A5%98-80544015b/)
+🔗 [My Tableau](https://public.tableau.com/app/profile/.83106478)
 
 ---
 
